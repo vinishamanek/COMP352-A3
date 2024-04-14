@@ -1,6 +1,5 @@
 /**
  * @author Vinisha, Manek
- * 40229456
  * COMP352
  * Assignment #3
  * December 2nd, 2023
